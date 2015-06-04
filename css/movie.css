@@ -1,0 +1,155 @@
+html,body {
+	height: 100%;	
+}
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100% 100%;
+
+}
+
+#previous {
+	width: 11%;
+	height: 18%;
+	position: absolute;
+	left: 3%;
+	top: 2%;	
+}
+
+#mov1 {
+	width: 16%;
+	height: 18%;
+	position: absolute;
+	left: 14%;
+	top: 60%;		
+}
+
+#cam1 {
+	width: 16%;
+	height: 5%;
+	position: absolute;
+	left: 14%;
+	top: 55%;		
+}
+
+#mov2 {
+	width: 16%;
+	height: 18%;
+	position: absolute;
+	left: 44%;
+	top: 50%;		
+}
+
+#cam2 {
+	width: 16%;
+	height: 5%;
+	position: absolute;
+	left: 44%;
+	top: 45%;		
+}
+
+#mov3 {
+	width: 16%;
+	height: 18%;
+	position: absolute;
+	left: 72%;
+	top: 50%;		
+}
+
+#cam3 {
+	width: 16%;
+	height: 5%;
+	position: absolute;
+	left: 72%;
+	top: 45%;		
+}
+
+#mov4 {
+	width: 16%;
+	height: 18%;
+	position: absolute;
+	left: 44%;
+	top: 74%;		
+}
+
+#cam4 {
+	width: 16%;
+	height: 5%;
+	position: absolute;
+	left: 44%;
+	top: 69%;		
+}
+
+#mov5 {
+	width: 16%;
+	height: 18%;
+	position: absolute;
+	left: 72%;
+	top: 74%;		
+}
+
+#cam5 {
+	width: 16%;
+	height: 5%;
+	position: absolute;
+	left: 72%;
+	top: 69%;		
+}
+
+#video1 {
+	position: absolute;
+	top: 10%;
+	width: 100%;
+	height: auto;
+}
+
+#videoHeader {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 10%;
+	background-color: #00cce9;
+}
+
+#videoHeader p {
+	font-family: '微軟正黑體';
+	text-align: center;
+	vertical-align: center;
+	font-weight: bold;
+	font-size: 250%;
+	color: white;
+	margin: 0;
+}
+
+#moviePrevious {
+	width: 6%;
+	height: 10%;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+}
+
+iframe {
+	margin-top: 0;
+	height: 572px;
+}
+
+/*#main {
+  	width: 1000px; 	height: 730px; margin:0px auto; position:relative; box-shadow:0px 0px 5px rgba(0,0,0,0.6);
+	background: url(../resources/images/treat_intro/apdmovie/APDMovieBG.imageset/a.png) no-repeat top center; background-size:cover;
+}*/
+
+#main {
+  	width: 1000px; 	height: 624px; margin:0px auto; position:relative; box-shadow:0px 0px 5px rgba(0,0,0,0.6);
+	background: url(../resources/images/treat_intro/apdmovie/APDMovieBG.imageset/a.png) no-repeat top center; background-size:100% 100%;
+}
+
+.footer {width:1000px; text-align:center; font-size:12px; color:#666; margin:10px auto;}

@@ -1,0 +1,218 @@
+/*CaGe New*/
+#screenSpan {width:300px; text-align:right; position:absolute; top:0px; right:5px; line-height:30px;}
+#screenSpan p {padding:0px; margin:0px; line-height:30px; position:relative;}
+
+#screenContentValue1 i {position:absolute; opacity:0; right:0px; top:-15px; font-style:normal; margin:0px; padding:0px;}
+#screenContentValue1 i:nth-child(1) {opacity:1;}
+
+#screenContentWord ul {float:left !important; width:50%; height:30px; line-height:30px; padding:0px; margin:0px;}
+#screenContentWord ul:nth-child(1) {text-align:left;}
+#screenContentWord ul:nth-child(2) {text-align:right;}
+
+/**/
+
+html,body {
+  height: 100%;  
+}
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  
+
+  
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100% 100%;
+
+}
+
+#previous {
+  width: 100px; 
+  position: absolute; right:20px; top:10px;}
+
+#contentWordDiv {
+  width: 59%;
+  height: auto;
+  position: absolute;
+  left: 32%;
+  top: 49%; 
+}
+
+#contentWord {
+  font-weight: bold;
+  font-size: 150%;
+}
+
+#screenWordDiv {
+  text-align: center;
+  width:520px;
+  height:30px;
+  position: absolute; left:355px;  top:140px;
+}
+
+#screenContentWord { width:inherit; height:30px;
+  display: inline-block;  font-weight: bold;
+  font-size: 150%;  color: white;
+  text-align: center;  white-space: pre;
+}
+
+
+#btnImgRestart {
+  width: 12%;
+  height: 12%;
+  position: absolute;
+  left: 4%;
+  top: 18%;   
+}
+
+
+#btnImgPower {
+  width: 12%;
+  height: 12%;
+  position: absolute;
+  left: 15.5%;
+  top: 18%;   
+}
+
+#btnImgGo {
+  width: 8%;
+  height: 11%;
+  position: absolute;
+  left: 37%;
+  top: 31%;   
+}
+
+#btnImgStop {
+  width: 8%;
+  height: 11%;
+  position: absolute;
+  left: 49.5%;
+  top: 31%;   
+}
+
+#btnImgEnter {
+  width: 8%;
+  height: 11%;
+  position: absolute;
+  left: 72%;
+  top: 31%;   
+}
+
+#btnImgUp {
+	width: 60px;
+	position: absolute;
+	left: 820px;
+	top: 220px;		
+}
+
+#btnImgDown {
+	width: 60px;
+	position: absolute;
+	left: 820px;
+	top: 270px;		
+}
+
+#introImg {
+  width: 29%;
+  height: 40%;
+  position: absolute;
+  left: 30%;
+  top: 49%;
+}
+
+#btnImgLastStep {
+  width: 15%;
+  height: 8%;
+  position: absolute;
+  left: 73%;
+  top: 76%;
+}
+
+#bar1 {
+  width: 4%;
+  height: 6%;
+  position: absolute;
+  left: 22.5%;
+  top: 91%;
+}
+
+#bar2 {
+  width: 4%;
+  height: 6%;
+  position: absolute;
+  left: 27.7%;
+  top: 91%;
+}
+
+#bar3 {
+  width: 4%;
+  height: 6%;
+  position: absolute;
+  left: 32.9%;
+  top: 91%;
+}
+
+#bar4 {
+  width: 4%;
+  height: 6%;
+  position: absolute;
+  left: 38.2%;
+  top: 91%;
+}
+
+#bar5 {
+  width: 4%;
+  height: 6%;
+  position: absolute;
+  left: 43.5%;
+  top: 91%;
+}
+
+#bar6 {
+  width: 4%;
+  height: 6%;
+  position: absolute;
+  left: 48.8%;
+  top: 91%;
+}
+
+#bar7 {
+  width: 4%;
+  height: 6%;
+  position: absolute;
+  left: 53.7%;
+  top: 91%;
+}
+
+#bar8 {
+  width: 4%;
+  height: 6%;
+  position: absolute;
+  left: 58.9%;
+  top: 91%;
+}
+
+.bars {
+  display: none;
+  z-index: 1;
+}
+
+#barMother {
+  width: 36%;
+  height: 9%;
+  position: absolute;
+  left: 16.5%;
+  top: 88%;
+}
+
+#main {
+    width: 1000px;  height: 730px; margin:0px auto; position:relative; box-shadow:0px 0px 5px rgba(0,0,0,0.6);
+  background: url('../resources/images/operatorhelp/treatproblemmenu/treatproblemcontent/jump_bg.imageset/a.png'); no-repeat top center; background-size:cover;
+}
+
+.footer {width:1000px; text-align:center; font-size:12px; color:#666; margin:10px auto;}

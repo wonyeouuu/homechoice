@@ -1,0 +1,78 @@
+html,body {
+	height: 100%;
+}
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  
+  background: #c3e6fa;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100% 100%;
+}
+
+#TV {
+	width:200px;
+	position:absolute;	left:220px; top:160px;
+}
+
+#language {
+	width:160px;
+	position: absolute; left:235px; top:340px;
+}
+
+#machine {
+	width:230px;
+	position: absolute;	left:330px;	top:450px;	
+}
+
+#operation {
+	width:280px;
+	position: absolute; right:90px; bottom:20px;	
+}
+
+#treatMethod {
+	width:180px;
+	position:absolute; 	left:630px;	top:50px;	
+}
+
+#nurse {
+	width: 180px;
+	position: absolute;	left:30px; top:500px; z-index: +1;
+}
+
+#speakingContent {
+	width:300px;
+	position: absolute; left: 180px; top:600px;
+	z-index: 0;
+}
+
+#contentWordDiv {
+	width: 251px; height:110px;
+	position: absolute;	left:223px;	top:600px;	
+}
+
+#contentWord {
+	font-weight: bold;
+}
+
+
+
+
+#stuffsInLivingRoom {
+  	width: 1000px; 	height: 730px; margin:0px auto; position:relative; box-shadow:0px 0px 5px rgba(0,0,0,0.6);
+	background:url(../resources/images/home/main_bg_new.imageset/a.png) no-repeat top center; background-size:cover;
+}
+
+#languageChooser {
+	width:70px;
+	position: absolute;	left:380px;	top:370px;
+	background-color: white; padding:5px; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px;
+	display: none; box-shadow:1px 1px 6px rgba(0,0,0,0.6);
+}
+#languageChooser a {color:#333; margin:5px 10px; text-decoration:none;} #languageChooser a:hover {color:#039; }
+
+.footer {width:1000px; text-align:center; font-size:12px; color:#666; margin:10px auto;}

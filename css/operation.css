@@ -1,0 +1,84 @@
+html,body {
+	height: 100%;
+}
+
+
+
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  height: 100%;
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100% 100%;
+
+}
+
+#previous {
+	width: 100px; 
+	position: absolute; right:20px;	top:10px;}
+
+#btnImg1 {
+	width: 24%;
+	height: 45%;
+	position: absolute;
+	left: 10%;
+	top: 13%;		
+}
+
+#btnImg2 {
+	width: 24%;
+	height: 45%;
+	position: absolute;
+	left: 38%;
+	top: 13%;		
+}
+
+#btnImg3 {
+	width: 24%;
+	height: 45%;
+	position: absolute;
+	left: 10%;
+	top: 58%;		
+}
+
+#btnImg4 {
+	width: 24%;
+	height: 45%;
+	position: absolute;
+	left: 38%;
+	top: 58%;		
+}
+
+#nurse {
+	width: 25%;
+	height: 40%;
+	position: absolute;
+	left: 67%;
+	top: 63%;		
+}
+
+#contentWordDiv {
+	width: 21%;
+	height: 28%;
+	position: absolute;
+	left: 68.5%;
+	top: 27%;	
+}
+
+#contentWord {
+	font-weight: bold;
+	font-size: 120%;
+}
+
+#main {
+  	width: 1000px; 	height: 730px; margin:0px auto; position:relative; box-shadow:0px 0px 5px rgba(0,0,0,0.6);
+	background: url('../resources/images/treat_intro/treat_intro_bg.imageset/a.png');; no-repeat top center; background-size:cover;
+}
+
+.footer {width:1000px; text-align:center; font-size:12px; color:#666; margin:10px auto;}

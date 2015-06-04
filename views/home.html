@@ -1,0 +1,83 @@
+<!DOCTYPE HTML>
+<html>
+<head>  
+	<!-- standard jquery -->
+	<script src="../js/jquery-2.1.3.min.js" type="text/javascript"></script>
+
+	<!-- core files -->
+	<link rel="stylesheet" href="../css/basic.css" />
+	<link rel="stylesheet" href="../css/home.css" />
+	<script type="text/javascript" src="../js/home.js"></script>
+	<script type="text/javascript" src="../js/logAPI.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>首頁</title>
+<style type="text/css">
+</style>
+</head>
+<body>
+	<div id="stuffsInLivingRoom">
+		<a href="movie.html" onclick="logAPI(30000)"><img id="TV" src="../resources/images/home/Movie.imageset/a.png"></a>
+		<a href="machine.html" onclick="logAPI(20000)"><img id="machine" src="../resources/images/home/MachineIntro.imageset/a.png"></a>
+		<a href="operation.html" onclick="logAPI(10000)"><img id="operation" src="../resources/images/home/OperationHelp.imageset/a.png"></a>
+		<a href="treatInfo.html" onclick="logAPI(40000)"><img id="treatMethod" src="../resources/images/home/TreatIntro.imageset/a.png"></a>
+		<a href="#"><img id="language" src="../resources/images/home/langugechange.imageset/a.png"></a>
+		<a><img id="nurse" src="../resources/images/home/Nurse.imageset/a.png"></a>
+		<a><img id="speakingContent" src="../resources/images/home/Dialog.imageset/a.png"></a>
+
+		<div id="contentWordDiv">
+			<p id="contentWord">想知道什麼是全自動腹膜透析(APD)治療嗎？這裡有詳盡的介紹！</p>
+		</div>
+
+		<audio id="nurseAudio">
+  			<source src="../resources/audio/nurse/ch/treat.mp3" type="audio/mpeg">
+		</audio>
+
+		<div id="languageChooser">
+			<a href="../views/home(noLog).html" onclick="logAPI(50100)">國語</a>
+			<a href="../views_en/home(noLog).html" onclick="logAPI(50200)">English</a>
+			<a href="../views_tw/home(noLog).html" onclick="logAPI(50300)">台語</a>
+		</div>
+	</div>
+    
+    <div id="popContainer" class="active">
+        <div class="popContent">
+        	<div class="steps" id="step1">
+            	<ul>請填入您的 eMail 登入或註冊</ul>
+                <ul>
+  
+                	<input id="inputEmail" type="text" />
+                    <button id="btnSubmit">登入 or 註冊</button>
+  
+                </ul>
+                
+            </div>
+            <div class="steps" id="step2">
+            	<ul>請選擇您的身份</ul>
+                <ul>
+                	<table id="options">
+					  <tr>
+					    <td id="opt1">系統人員</td>
+					    <td id="opt2">醫師/護理人員</td>
+					    <td id="opt3">病患/家屬</td>
+					  </tr>
+					</table>
+                    <button id="btnRegister">註冊</button>
+          
+                </ul>
+                <ul>您所註冊的 eMail :<span id="eMail"></span></ul>
+            </div>
+
+            <div class="steps" id="step3">
+            	<ul>請協助我們填寫問卷</ul>
+            	<ul>
+  					<button class="qList">問卷</button>
+  				</ul>
+            </div>
+        </div>
+        <div class="btn_closePop">X</div>
+    </div>
+
+	<div class="footer">建議使用 Google Chrome 或 IE10+ 以上版本的瀏覽器觀看</div>
+</body>
+</html>

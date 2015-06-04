@@ -1,0 +1,84 @@
+html,body {
+  height: 100%;
+}
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  
+
+  
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100% 100%;
+}
+
+#previous {
+  width: 100px; 
+  position: absolute; right:20px; top:10px;}
+
+#linkImg1 {
+  width: 45%;
+  height: 13%;
+  position: absolute;
+  left: 10%;
+  top: 25%;
+}
+
+#linkImg2 {
+  width: 45%;
+  height: 13%;
+  position: absolute;
+  left: 10%;
+  top: 42%;
+}
+
+#linkImg3 {
+  width: 45%;
+  height: 13%;
+  position: absolute;
+  left: 10%;
+  top: 59%;
+}
+
+#linkImg4 {
+  width: 45%;
+  height: 13%;
+  position: absolute;
+  left: 10%;
+  top: 76%;
+}
+
+#nurse {
+  width: 24%;
+  height: 40%;
+  position: absolute;
+  left: 68%;
+  top: 62%; 
+
+  z-index: +1;
+}
+
+#contentWordDiv {
+  width: 21%;
+  height: 14%;
+  position: absolute;
+  left: 69%;
+  top: 27%; 
+}
+
+#contentWord {
+  font-weight: bold;
+  font-size: 120%;
+}
+
+#main {
+    width: 1000px;  height: 730px; margin:0px auto; position:relative; box-shadow:0px 0px 5px rgba(0,0,0,0.6);
+  background: url('../resources/images/treat_intro/PrescriptSettingBG.imageset/a.png'); no-repeat top center; background-size:cover;
+}
+
+.footer {width:1000px; text-align:center; font-size:12px; color:#666; margin:10px auto;}

@@ -1,0 +1,43 @@
+html,body {
+	
+}
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  
+
+  background: #083e8d;
+  background-size: 100% 100%;
+
+}
+
+#header {
+	width: 100%;}
+
+#btn1 {
+	width: 30.8%;
+	position: absolute;
+	left: 3.8%;	top:150px;	
+}
+
+#btn2 {
+	width: 30.8%;
+	position: absolute;
+	left: 34.6%; top:150px;	
+}
+
+#btn3 {
+	width: 30.8%;
+	position: absolute;
+	left: 65.4%; top:150px;
+}
+
+#content {
+	width: 100%;
+	height: auto;
+	position:absolute; top:190px; left: 0;
+			
+}

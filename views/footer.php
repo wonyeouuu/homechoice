@@ -1,0 +1,1 @@
+<div class="footer">建議使用 Google Chrome 或 IE10+ 以上版本的瀏覽器觀看</div>

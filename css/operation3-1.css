@@ -1,0 +1,36 @@
+html,body {
+  height: 100%;	
+}
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  
+
+  background: white;
+  background-repeat: no-repeat;
+  background-attachment: absolute;
+  background-position: center;  
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100% 100%;
+}
+
+#previous {
+  width: 100px; 
+  position: absolute; right:20px; top:10px;
+  z-index: 1;}
+
+#title {
+	width: 100%;
+	height: auto;
+	position: absolute;
+	left: 0%;
+	top: 0%;	
+}
+
+

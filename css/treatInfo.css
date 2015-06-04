@@ -1,0 +1,53 @@
+html,body {
+	height: 100%;
+}
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  
+}
+body .main {background:url(../resources/images/treat_intro/treat_bg_2.imageset/a.png) no-repeat; background-size:cover;}
+
+#nurse {
+	width: 23%;
+	position: absolute;
+	left: 18.5%;
+	top: 63%;	
+}
+
+#contentWordDiv {
+	width: 28%;
+	position: absolute;
+	left: 43.5%;
+	top: 70%;	
+}
+
+#contentWord {
+	font-weight: bold;
+	font-size: 130%;
+}
+
+#light1 {
+	width: 35%;
+	position: absolute; left: 32.5%; top: 21%;	
+}
+
+#light2 {
+	width: 26%;
+	position: absolute;
+	left: 13.5%;
+	top: 42%;	
+
+	opacity: 0.2;
+}
+
+#light3 {
+	width: 26%;
+	position: absolute;
+	left: 60%;
+	top: 42%;
+	opacity: 0.2;
+}

@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+body div {position:relative; margin:0px; padding:0px;}
+
+.main {width:1280px; min-height:768px; margin:0 auto;
+	box-shadow:0px 0px 6px rgba(0,0,0,0.6); -webkit-box-shadow:0px 0px 6px rgba(0,0,0,0.6); -moz-box-shadow:0px 0px 6px rgba(0,0,0,0.6);}
+
+
+
+#previous {
+	width: 100px; 
+	position: absolute; right:20px;	top:10px;}
+
+
+
+.footer {width:1000px; text-align:center; font-size:12px; color:#666; margin:10px auto;}
+
+
+
+/* ============= Basic ============= */
+.ta-R{text-align:right;}
+.ta-L{text-align:left;}
+.ta-C{text-align:center;}
+.mag_C {margin:0px auto;}
+.fl-R{float:right;}
+.fl-L{float:left;}
+.clear{clear:both; height:0px;}
+.pos-re {position:relative;}
+.pos-ab{position:absolute;}
+.hid {visibility:hidden;}
+.cssTable {display:table;}
+.cssTable .tr {display: table-row;}
+.cssTable .td {display: table-cell;}
+.v-base{	vertical-align:baseline;}/* vertical align baseline */
+.v-top{vertical-align:top;}/* vertical align top */
+
+
+/* ============= botton ============= */
+.btnFace, a, .backTop {
+	cursor:pointer;
+	-webkit-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out;
+}
+.btnFace:over, a:hover, .backTop:hover {
+	-webkit-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out;	
+}
+.opa {opacity:0; -webkit-animation:opacity ease 1s 0s forwards; animation:opacity ease 0s 1s forwards;}
+@keyframes opacity {from{opacity:0;} to{opacity:1;}}
+@-webkit-keyframes opacity {from{opacity:0;} to{opacity:1;}}
+.btnFaceN {cursor:pointer;}
+
+
+/* ============= LightBOX ============= */
+#popContainer {
+	top: 0px; left: 0px;
+	position:fixed;
+	width:100%; height:100%;
+	z-index:99999999; background:rgba(0,0,0,0.7);
+}
+.popContent {
+	background:#0084CD; font-size:18px; color:#fff; line-height:40px;
+	width:620px; height:300px; padding:40px;
+	position: absolute; top:50%; left:50%;
+	margin-top: -310px; margin-left:-330px;
+}
+.popContent .steps {width:98%; height:98%; padding:1%;}
+.popContent .steps ul {width:100%; color:#fff; text-align:center; margin:0px; padding:0px;}
+.popContent .steps ul:nth-child(1) {line-height:30px; height:30px; margin:0px auto 100px;}
+.popContent .steps ul input {width:80%; line-height:30px; padding:5px; margin-top: -90px;}
+#btnSubmit {border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; margin-top:70px; font-size:90%; width:80%; line-height:30px; padding:5px;}
+
+#options {width: 80%; margin:0px auto; padding: 0px;}
+#options td {background-color: white; width: 33.3%; color: black;}
+#options td:hover {background-color: rgba(255, 255, 0, 0.5); width: 33.3%; color: rgba(0, 0, 255, 0.5);}
+#options td.selected {background-color: rgba(255, 255, 0, 1); width: 33.3%; color: rgba(0, 0, 255, 1);}
+#btnRegister {border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; margin-top:70px; font-size:90%; width:80%; line-height:30px; padding:5px;}
+
+.qList {
+	width: 80%;
+	height: 40px;
+	border-radius: 10px;
+	background-color: yellow;
+	font-size: 20px;
+}
+.btn_openPop {
+}
+.btn_closePop {
+	width:20px; height:20px; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px;
+	background:#000; color:#aaa; padding:10px; text-align:center;
+	position:absolute; top:50%; left:50%;
+	margin-top: -300px; margin-left:320px; cursor:pointer;
+}
+.btn_closePop:hover {color:#fff;}
