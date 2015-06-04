@@ -1,0 +1,259 @@
+[24-Jun-2014 16:42:11 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 103
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:27:32 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:28:14 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 08:29:42 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artavenu/public_html/admin/inc/scripts.php:10) in /home/artavenu/public_html/class/Routine/Grid.php on line 102
+[26-Jun-2014 08:29:54 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artavenu/public_html/admin/inc/scripts.php:10) in /home/artavenu/public_html/class/Routine/Grid.php on line 102
+[26-Jun-2014 17:45:15 Asia/Taipei] PHP Warning:  scandir(/home/artavenu/public_html/upload/images/product/23/7) [<a href='function.scandir'>function.scandir</a>]: failed to open dir: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 89
+[26-Jun-2014 17:45:15 Asia/Taipei] PHP Warning:  scandir() [<a href='function.scandir'>function.scandir</a>]: (errno 2): No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 89
+[26-Jun-2014 17:45:15 Asia/Taipei] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #1 is not an array in /home/artavenu/public_html/class/Routine/FileField.php on line 92
+[26-Jun-2014 17:45:15 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/artavenu/public_html/class/Routine/FileField.php on line 93
+[26-Jun-2014 17:45:15 Asia/Taipei] PHP Warning:  rmdir(/home/artavenu/public_html/upload/images/product/23/7) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 96
+[26-Jun-2014 21:09:21 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 103
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:19 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:49 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 103
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:10:59 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/admin/account-edit.php on line 175
+[26-Jun-2014 21:35:28 Asia/Taipei] PHP Warning:  scandir(/home/artavenu/public_html/upload/images/product/23/4) [<a href='function.scandir'>function.scandir</a>]: failed to open dir: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 89
+[26-Jun-2014 21:35:28 Asia/Taipei] PHP Warning:  scandir() [<a href='function.scandir'>function.scandir</a>]: (errno 2): No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 89
+[26-Jun-2014 21:35:28 Asia/Taipei] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #1 is not an array in /home/artavenu/public_html/class/Routine/FileField.php on line 92
+[26-Jun-2014 21:35:28 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/artavenu/public_html/class/Routine/FileField.php on line 93
+[26-Jun-2014 21:35:28 Asia/Taipei] PHP Warning:  rmdir(/home/artavenu/public_html/upload/images/product/23/4) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 96
+[26-Jun-2014 21:36:00 Asia/Taipei] PHP Warning:  scandir(/home/artavenu/public_html/upload/images/product/23/4) [<a href='function.scandir'>function.scandir</a>]: failed to open dir: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 89
+[26-Jun-2014 21:36:00 Asia/Taipei] PHP Warning:  scandir() [<a href='function.scandir'>function.scandir</a>]: (errno 2): No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 89
+[26-Jun-2014 21:36:00 Asia/Taipei] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #1 is not an array in /home/artavenu/public_html/class/Routine/FileField.php on line 92
+[26-Jun-2014 21:36:00 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/artavenu/public_html/class/Routine/FileField.php on line 93
+[26-Jun-2014 21:36:00 Asia/Taipei] PHP Warning:  rmdir(/home/artavenu/public_html/upload/images/product/23/4) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 96
+[26-Jun-2014 21:36:23 Asia/Taipei] PHP Warning:  scandir(/home/artavenu/public_html/upload/images/product/23/4) [<a href='function.scandir'>function.scandir</a>]: failed to open dir: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 89
+[26-Jun-2014 21:36:23 Asia/Taipei] PHP Warning:  scandir() [<a href='function.scandir'>function.scandir</a>]: (errno 2): No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 89
+[26-Jun-2014 21:36:23 Asia/Taipei] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #1 is not an array in /home/artavenu/public_html/class/Routine/FileField.php on line 92
+[26-Jun-2014 21:36:23 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/artavenu/public_html/class/Routine/FileField.php on line 93
+[26-Jun-2014 21:36:23 Asia/Taipei] PHP Warning:  rmdir(/home/artavenu/public_html/upload/images/product/23/4) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 96
+[26-Jun-2014 21:36:47 Asia/Taipei] PHP Warning:  scandir(/home/artavenu/public_html/upload/images/product/23/2) [<a href='function.scandir'>function.scandir</a>]: failed to open dir: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 89
+[26-Jun-2014 21:36:47 Asia/Taipei] PHP Warning:  scandir() [<a href='function.scandir'>function.scandir</a>]: (errno 2): No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 89
+[26-Jun-2014 21:36:47 Asia/Taipei] PHP Warning:  array_diff() [<a href='function.array-diff'>function.array-diff</a>]: Argument #1 is not an array in /home/artavenu/public_html/class/Routine/FileField.php on line 92
+[26-Jun-2014 21:36:47 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/artavenu/public_html/class/Routine/FileField.php on line 93
+[26-Jun-2014 21:36:47 Asia/Taipei] PHP Warning:  rmdir(/home/artavenu/public_html/upload/images/product/23/2) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 96
+[26-Jun-2014 21:40:58 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artavenu/public_html/admin/inc/scripts.php:10) in /home/artavenu/public_html/class/Routine/Grid.php on line 84
+[26-Jun-2014 21:40:58 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artavenu/public_html/admin/inc/scripts.php:10) in /home/artavenu/public_html/class/Routine/Grid.php on line 85
+[26-Jun-2014 21:52:45 Asia/Taipei] PHP Warning:  move_uploaded_file(/home/artavenu/public_html/upload/images/product/12/image_12_03790765.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 196
+[26-Jun-2014 21:52:45 Asia/Taipei] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phppopt2n' to '/home/artavenu/public_html/upload/images/product/12/image_12_03790765.png' in /home/artavenu/public_html/class/Routine/FileField.php on line 196
+[26-Jun-2014 21:52:52 Asia/Taipei] PHP Warning:  move_uploaded_file(/home/artavenu/public_html/upload/images/product/12/image_12_03790772.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 196
+[26-Jun-2014 21:52:52 Asia/Taipei] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php2KVPuZ' to '/home/artavenu/public_html/upload/images/product/12/image_12_03790772.png' in /home/artavenu/public_html/class/Routine/FileField.php on line 196
+[26-Jun-2014 21:53:18 Asia/Taipei] PHP Warning:  move_uploaded_file(/home/artavenu/public_html/upload/images/product/12/image_12_03790798.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 196
+[26-Jun-2014 21:53:18 Asia/Taipei] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpktzVsY' to '/home/artavenu/public_html/upload/images/product/12/image_12_03790798.png' in /home/artavenu/public_html/class/Routine/FileField.php on line 196
+[26-Jun-2014 21:55:02 Asia/Taipei] PHP Warning:  move_uploaded_file(/home/artavenu/public_html/upload/images/product/12/image_12_03790902.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/artavenu/public_html/class/Routine/FileField.php on line 199
+[26-Jun-2014 21:55:02 Asia/Taipei] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpAa35IQ' to '/home/artavenu/public_html/upload/images/product/12/image_12_03790902.png' in /home/artavenu/public_html/class/Routine/FileField.php on line 199
+[26-Jun-2014 22:33:03 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 103
+[26-Jun-2014 22:33:16 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artavenu/public_html/admin/inc/scripts.php:10) in /home/artavenu/public_html/class/Routine/Grid.php on line 84
+[26-Jun-2014 22:33:16 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artavenu/public_html/admin/inc/scripts.php:10) in /home/artavenu/public_html/class/Routine/Grid.php on line 85
+[27-Jun-2014 08:06:24 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artavenu/public_html/admin/inc/scripts.php:10) in /home/artavenu/public_html/class/Routine/Grid.php on line 102
+[28-Jun-2014 13:43:42 Asia/Taipei] PHP Fatal error:  Class 'Web\Promotion' not found in /home/artavenu/public_html/admin/promotion-list.php on line 328
+[28-Jun-2014 13:44:35 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id2' in 'field list' in /home/artavenu/public_html/admin/promotion-edit.php on line 47
+[28-Jun-2014 17:29:25 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 119
+[28-Jun-2014 17:30:01 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 119
+[28-Jun-2014 19:21:56 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 119
+[29-Jun-2014 22:36:55 Asia/Taipei] PHP Fatal error:  Access to undeclared static property: Routine\FileField::$brandFiles in /home/artavenu/public_html/admin/product-brand-edit.php on line 157
+[30-Jun-2014 15:05:52 Asia/Taipei] PHP Fatal error:  Access to undeclared static property: Routine\FileField::$brandFiles in /home/artavenu/public_html/admin/product-brand-edit.php on line 157
+[30-Jun-2014 15:06:29 Asia/Taipei] PHP Fatal error:  Access to undeclared static property: Routine\FileField::$brandFiles in /home/artavenu/public_html/admin/product-brand-edit.php on line 157
+[01-Jul-2014 15:56:53 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 138
+[03-Jul-2014 14:40:42 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 138
+[04-Jul-2014 17:20:35 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 138
+[14-Jul-2014 15:07:49 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 138
+[20-Jul-2014 00:23:46 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 138
+[20-Jul-2014 05:07:38 Asia/Taipei] PHP Fatal error:  Access to undeclared static property: Routine\FileField::$memberFiles in /home/artavenu/public_html/admin/member-edit.php on line 74
+[20-Jul-2014 05:07:47 Asia/Taipei] PHP Fatal error:  Access to undeclared static property: Routine\FileField::$memberFiles in /home/artavenu/public_html/admin/member-edit.php on line 74
+[22-Jul-2014 14:25:07 Asia/Taipei] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/artavenu/public_html/class/Routine/Permission.php on line 138
+[22-Jul-2014 14:50:47 Asia/Taipei] PHP Fatal error:  Access to undeclared static property: Routine\FileField::$memberFiles in /home/artavenu/public_html/admin/member-edit.php on line 74
+[22-Jul-2014 14:51:11 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'catagories_id' in 'field list' in /home/artavenu/public_html/admin/member-edit.php on line 76
+[22-Jul-2014 14:52:49 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/artavenu/public_html/admin/member-edit.php on line 71
+[22-Jul-2014 14:52:49 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number in /home/artavenu/public_html/admin/member-edit.php on line 71
+[22-Jul-2014 14:53:31 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/artavenu/public_html/admin/member-edit.php on line 71
+[22-Jul-2014 14:53:31 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number in /home/artavenu/public_html/admin/member-edit.php on line 71
+[22-Jul-2014 14:55:21 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/artavenu/public_html/admin/member-edit.php on line 71
+[22-Jul-2014 14:55:21 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number in /home/artavenu/public_html/admin/member-edit.php on line 71
+[22-Jul-2014 14:55:36 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/artavenu/public_html/admin/member-edit.php on line 71
+[22-Jul-2014 14:55:36 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number in /home/artavenu/public_html/admin/member-edit.php on line 71
+[22-Jul-2014 14:55:41 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/artavenu/public_html/admin/member-edit.php on line 71
+[22-Jul-2014 14:55:41 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number in /home/artavenu/public_html/admin/member-edit.php on line 71
+[25-Jul-2014 00:01:32 Asia/Taipei] PHP Fatal error:  Access to undeclared static property: Web\Member::$levels in /home/artavenu/public_html/admin/member-edit.php on line 240
+[23-Mar-2015 01:11:55 Asia/Taipei] PHP Warning:  require_once(/home/atcevent/public_html/homechoice/config/config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/atcevent/public_html/homechoice/connect.php on line 2
+[23-Mar-2015 01:11:55 Asia/Taipei] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/atcevent/public_html/homechoice/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/atcevent/public_html/homechoice/connect.php on line 2
+[23-Mar-2015 01:17:49 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'atcevent_homechoice.LP_account' doesn't exist in /home/atcevent/public_html/homechoice/admin/login.php on line 35
+[23-Mar-2015 01:17:56 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'atcevent_homechoice.LP_account' doesn't exist in /home/atcevent/public_html/homechoice/admin/login.php on line 35
+[23-Mar-2015 01:18:38 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'atcevent_homechoice.LP_account' doesn't exist in /home/atcevent/public_html/homechoice/admin/login.php on line 35
+[23-Mar-2015 01:18:42 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'atcevent_homechoice.LP_account' doesn't exist in /home/atcevent/public_html/homechoice/admin/login.php on line 35
+[23-Mar-2015 01:18:46 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'atcevent_homechoice.LP_account' doesn't exist in /home/atcevent/public_html/homechoice/admin/login.php on line 35
+[23-Mar-2015 01:23:32 Asia/Taipei] PHP Fatal error:  Undefined constant 'PDO' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 8
+[23-Mar-2015 01:24:56 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:11
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(11): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(22): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(28): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 11
+[23-Mar-2015 01:25:14 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(21): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(28): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:25:28 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(21): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(28): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:25:31 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(21): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(28): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:26:00 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(21): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(28): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:26:10 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(21): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(29): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:26:24 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(21): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(29): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:26:25 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(21): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(29): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:26:41 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(21): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(29): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:27:11 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(21): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(29): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:29:44 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(22): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(29): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:29:53 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(22): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(29): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:33:18 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'localhost' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(22): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(29): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:34:33 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'atcevent_cage'@'re17.cx901.com' (using password: YES)' in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php:10
+Stack trace:
+#0 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(10): PDO->__construct('mysql:dbname=at...', 'atcevent_cage', 'cage@001', Array)
+#1 /home/atcevent/public_html/homechoice/application/Model/Db/Db.php(22): Model\Db\Db->__construct()
+#2 /home/atcevent/public_html/homechoice/admin/login.php(29): Model\Db\Db::getInstance()
+#3 {main}
+  thrown in /home/atcevent/public_html/homechoice/application/Model/Db/Db.php on line 10
+[23-Mar-2015 01:40:48 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'atcevent_homechoice.LP_account' doesn't exist in /home/atcevent/public_html/homechoice/admin/login.php on line 37
+[23-Mar-2015 01:40:57 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'atcevent_homechoice.LP_account' doesn't exist in /home/atcevent/public_html/homechoice/admin/login.php on line 37
+[08-Apr-2015 16:11:28 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 121
+[08-Apr-2015 16:12:04 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 121
+[08-Apr-2015 16:17:41 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 121
+[08-Apr-2015 16:18:05 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 121
+[10-Apr-2015 13:35:18 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 121
+[10-Apr-2015 13:35:23 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 121
+[10-Apr-2015 13:35:42 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-export.php on line 12
+[10-Apr-2015 13:36:02 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/atcevent/public_html/homechoice/admin/inc/scripts.php:4) in /home/atcevent/public_html/homechoice/application/Routine/Grid.php on line 102
+[10-Apr-2015 13:36:02 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 121
+[10-Apr-2015 13:36:10 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 121
+[10-Apr-2015 13:37:22 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 123
+[05-May-2015 15:16:04 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/atcevent/public_html/homechoice/admin/inc/scripts.php:4) in /home/atcevent/public_html/homechoice/application/Routine/Grid.php on line 102
+[05-May-2015 15:16:06 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/atcevent/public_html/homechoice/admin/inc/scripts.php:4) in /home/atcevent/public_html/homechoice/application/Routine/Grid.php on line 102
+[05-May-2015 15:16:54 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 123
+[02-Jun-2015 17:35:07 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 123
+[02-Jun-2015 17:35:10 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 123
+[03-Jun-2015 14:33:44 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-export.php on line 12
+[03-Jun-2015 14:33:49 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/atcevent/public_html/homechoice/admin/inc/scripts.php:4) in /home/atcevent/public_html/homechoice/application/Routine/Grid.php on line 84
+[03-Jun-2015 14:33:49 Asia/Taipei] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/atcevent/public_html/homechoice/admin/inc/scripts.php:4) in /home/atcevent/public_html/homechoice/application/Routine/Grid.php on line 85
+[03-Jun-2015 14:33:52 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-export.php on line 12
+[03-Jun-2015 14:34:38 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 123
+[03-Jun-2015 15:58:03 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 123
+[03-Jun-2015 15:58:08 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 123
+[04-Jun-2015 16:06:42 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 123
+[04-Jun-2015 16:06:46 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 123
+[04-Jun-2015 16:07:12 Asia/Taipei] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.sId' in 'on clause' in /home/atcevent/public_html/homechoice/admin/memberlogin-list.php on line 123

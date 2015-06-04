@@ -1,0 +1,143 @@
+<?php require_once 'connect.php';?>
+<?php
+
+header_utf8 ();
+if ($_REQUEST ['action']) {
+	if ($_REQUEST ['action'] == 'login') {
+		$email = $_POST ['email'];
+		$password = $_POST ['password'];
+		$loginResult = Web\Member::login ( $email, $password );
+		if ($loginResult ['success'] == false) {
+			alert ( $loginResult ['msg'] );
+			if (!empty ( $_REQUEST ['source'] )) {
+				go_to ( $_REQUEST ['source'] );
+			} elseif(!empty($_SERVER['HTTP_REFERER'])) {
+				go_to($_SERVER['HTTP_REFERER']);
+			}else{
+				go_to ( 'login.php' );
+			}
+			exit ();
+		} else {
+			$memInfor = $loginResult ['infor'];
+			Web\Member::registerSessionFromInfor ( $memInfor );
+			alert ( '登入成功' );
+			if (!empty ( $_REQUEST ['source'] )) {
+				go_to ( $_REQUEST ['source'] );
+			} elseif(!empty($_SERVER['HTTP_REFERER'])) {
+				go_to($_SERVER['HTTP_REFERER']);
+			}else{
+				go_to ( 'index.php' );
+			}
+			exit ();
+		}
+	}
+}
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<?php require 'inc/head_all.php';?>
+</head>
+<body>
+	<div id="main">
+	<?php include_once("header.php"); ?>
+    
+    <!-- Page Inner -->
+		<div class="pg_inner">
+
+			<!-- Login -->
+			<div class="login_left fl-L">
+				<h3>
+					new customers <span class="t_14">註冊會員</span>
+				</h3>
+				<p>
+					建立我們的商店會員，您的結帳過程更快，查看您的帳戶與追踪您的訂單，還有多種不定期優惠搭配。<br /> By creating an account with our store, you will be able to move through the checkout process faster, view and track your orders in your accoung
+					and more.
+				</p>
+				<div class="btn">
+					<form>
+						<input type="button" onclick="location.href='register.php';" value="create an account" />
+					</form>
+				</div>
+			</div>
+
+			<div class="login_left fl-R">
+				<h3>
+					Login <span class="t_14">登入會員</span>
+				</h3>
+				<p>
+					<!-- 登入錯誤訊息 -->
+				</p>
+				<!-- start registration -->
+				<div class="registration">
+					<script>
+			(function() {		
+				// Create input element for testing
+				var inputs = document.createElement('input');
+				
+				// Create the supports object
+				var supports = {};
+				
+				supports.autofocus   = 'autofocus' in inputs;
+				supports.required    = 'required' in inputs;
+				supports.placeholder = 'placeholder' in inputs;
+			
+				// Fallback for autofocus attribute
+				if(!supports.autofocus) {
+					
+				}				
+				// Fallback for required attribute
+				if(!supports.required) {
+					
+				}			
+				// Fallback for placeholder attribute
+				if(!supports.placeholder) {
+					
+				}				
+				// Change text inside send button on submit
+				var send = document.getElementById('register-submit');
+				if(send) {
+					send.onclick = function () {
+						this.innerHTML = '...Sending';
+					}
+				}
+		
+			})();
+		</script>
+					<div class="registration_left">
+						<div class="registration_form">
+							<!-- Form -->
+							<form id="registration_form" action="login.php" method="post">
+								<div>
+									<label> <input placeholder="email:" type="email" name="email" tabindex="3" required></label>
+								</div>
+								<div>
+									<label> <input placeholder="password" type="password" name="password" tabindex="4" required></label>
+								</div>
+								<div>
+									<input type="hidden" name="action" value="login" /> <input type="submit" value="sign in" id="register-submit">
+								
+								</div>
+								<div class="forget">
+									<input type="hidden" name="source" value="<?php echo $_REQUEST['source']?>" />
+									<a href="forgot.php">forgot your password 忘記密碼</a>
+								</div>
+							</form>
+							<!-- /Form -->
+						</div>
+					</div>
+				</div>
+				<!-- end registration -->
+			</div>
+			<div class="clear"></div>
+			<!-- Login END -->
+
+		</div>
+		<!-- Page Inner END -->
+
+	</div>
+	<!-- main END -->
+<?php include_once("footer_ad.php"); ?>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+.product-color-wrapper{
+	width: 40px;
+	height: 40px;
+	float:left;
+	margin-right: 5px;
+}
+.product-color-stock-input{
+	float:left;
+	width: 30px;
+	margin-top: 2px;
+}
+.product-color-block{
+	width:40px;
+}
